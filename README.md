@@ -17,5 +17,5 @@ This is a simple Laravel-based student management web app. It allows you to crea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fakeStudent.git
+git clone https://github.com/manpreet-2001/HTTP-5225-PHP-CRUD.git
 
